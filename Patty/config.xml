@@ -1,0 +1,161 @@
+<gallery>
+
+
+     <galleryName>Art Gallery</galleryName>
+     <items>
+          <item>
+
+
+
+
+               <source>Patty/images/1.jpg</source>
+               <thumb>Patty/images/t1.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>Patty/images/2.jpg</source>
+               <thumb>Patty/images/t2.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>Patty/images/3.jpg</source>
+               <thumb>Patty/images/t3.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>Patty/images/4.jpg</source>
+               <thumb>Patty/images/t4.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>Patty/images/5.jpg</source>
+               <thumb>Patty/images/t5.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>Patty/images/6.jpg</source>
+               <thumb>Patty/images/t6.jpg</thumb>
+          </item>
+     </items>
+     <settings>
+
+
+
+
+
+
+
+
+
+          <thumbnail>
+
+
+
+
+
+
+
+               <outlineColor>3355443</outlineColor>
+               <outlineColorOnClick>10066329</outlineColorOnClick>
+               <width>60</width>
+               <alpha>70</alpha>
+               <height>45</height>
+               <outlineColorOnRollOver>6710886</outlineColorOnRollOver>
+               <cornerRadius>0</cornerRadius>
+               <useShadow>1</useShadow>
+          </thumbnail>
+          <background>
+
+               <bgColor>16777215</bgColor>
+               <transparentBG>1</transparentBG>
+          </background>
+          <slideshow>
+
+
+
+               <start>1</start>
+               <loop>1</loop>
+               <stopAutoOnClick>1</stopAutoOnClick>
+               <delay>3.5</delay>
+          </slideshow>
+          <thumbBar>
+
+
+               <position>bottom</position>
+               <scrollSpeed>10</scrollSpeed>
+               <useThumbBar>1</useThumbBar>
+          </thumbBar>
+          <preloader>
+
+               <usePreloader>1</usePreloader>
+               <alpha>80</alpha>
+          </preloader>
+          <image>
+
+
+
+
+
+               <transitionEffect>fit</transitionEffect>
+               <transitionDuration>2</transitionDuration>
+               <align>center</align>
+               <cornerRadius>10</cornerRadius>
+               <useShadow>1</useShadow>
+               <scaleMode>fit</scaleMode>
+          </image>
+          <buttons>
+
+
+
+               <navigationButtons>1</navigationButtons>
+               <position>right</position>
+               <slideshowButton>1</slideshowButton>
+               <fullScreenButton>1</fullScreenButton>
+          </buttons>
+          <caption>
+
+
+
+
+
+
+               <fontName>Arial</fontName>
+               <position>bottom</position>
+               <fontSize>11</fontSize>
+               <bgColor>0</bgColor>
+               <bgAlpha>30</bgAlpha>
+               <visibleMode>never</visibleMode>
+               <color>16777215</color>
+          </caption>
+          <preview>
+
+
+
+
+
+
+               <outlineColor>16777215</outlineColor>
+               <width>200</width>
+               <alpha>100</alpha>
+               <height>100</height>
+               <cornerRadius>10</cornerRadius>
+               <useShadow>1</useShadow>
+               <usePreview>1</usePreview>
+          </preview>
+     </settings>
+</gallery>
